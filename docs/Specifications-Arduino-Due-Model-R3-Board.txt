@@ -25,6 +25,7 @@ perfect board for powerful larger scale Arduino projects.
 
 Warning: 
 ===================
+
 Unlike most Arduino boards, the Arduino Due board runs at 3.3V. 
 The maximum voltage that the I/O pins can tolerate is 3.3V. 
 Applying voltages higher than 3.3V to any I/O pin could damage the board.
@@ -32,34 +33,35 @@ Applying voltages higher than 3.3V to any I/O pin could damage the board.
 ===========================================================
 SPECIFICATIONS: Arduino Due R3 (ARM Board)
 ===========================================================
-Microcontroller					: AT91SAM3X8E  (ARM Cortex-M3)
-Operating Voltage				: 3.3V
-Input Voltage (recommended)		: 7-12V
-Input Voltage (limits)			: 6-16V
-Digital I/O Pins				: 54 (of which 12 provide PWM output)
-Analog Input Pins				: 12
-Analog Output Pins				: 2 (DAC)
-Total DC Output Current(all I/O): 130 mA
-DC Current for 3.3V Pin			: 800 mA
-DC Current for 5V Pin			: 800 mA
-Flash Memory					: 512 KB all available for the user applications
-SRAM							: 96 KB (two banks: 64KB and 32KB)
-Clock Speed						: 84 MHz
-Length 							: 101.52 mm
-Width							: 53.3 mm
-Weight							: 36 g
+Microcontroller                  : AT91SAM3X8E  (ARM Cortex-M3)
+Operating Voltage                : 3.3V
+Input Voltage (recommended)      : 7-12V
+Input Voltage (limits)           : 6-16V
+Digital I/O Pins                 : 54 (of which 12 provide PWM output)
+Analog Input Pins                : 12
+Analog Output Pins               : 2 (DAC)
+Total DC Output Current(all I/O) : 130 mA
+DC Current for 3.3V Pin          : 800 mA
+DC Current for 5V Pin            : 800 mA
+Flash Memory                     : 512 KB all available for the user applications
+SRAM                             : 96 KB (two banks: 64KB and 32KB)
+Clock Speed                      : 84 MHz
+Length                           : 101.52 mm
+Width                            : 53.3 mm
+Weight                           : 36 g
 
 ===========================================================
 GET SOFTWARE IDE (for Linux) with Arduino Due driver
 ===========================================================
 
-Arduino Due R3 Board
-Software IDE = Arduino IDE 1.8.13
+For Arduino Due R3 Board Software IDE = Arduino IDE 1.8.13
 https://downloads.arduino.cc/arduino-1.8.13-linux64.tar.xz
 
 https://www.arduino.cc/en/software
 REGISTER: wruslandr@gmail.com
 
+HOW TO GET Arduino Due IN THE LIST
+===========================================================
 Inside Arduino IDE, Menu -> Tools -> Board -> Go to Boards Manager.
 
 Select: Arduino SAM Boards (32-bits Arm Cortex-M3)
