@@ -18,10 +18,10 @@ wruslan@HPEliteBook8470p-Ub2004-rt38:~/opt$
 ===========================================================
 Board Identification: Arduino Due Model R3 Board
 ===========================================================
-The Arduino Due is the first Arduino board based on a 32-bit ARM core microcontroller. 
-
-With 54 digital input/output pins, 12 analog inputs, 2 DAC and 2 CAN it is the 
-perfect board for powerful larger scale Arduino projects.
+The Arduino Due is the first Arduino board based on a 32-bit ARM core 
+microcontroller. With 54 digital input/output pins, 12 analog inputs, 
+2 DAC and 2 CAN it is the  perfect board for powerful larger scale 
+Arduino projects.
 
 Warning: 
 ===================
@@ -43,7 +43,7 @@ Analog Output Pins               : 2 (DAC)
 Total DC Output Current(all I/O) : 130 mA
 DC Current for 3.3V Pin          : 800 mA
 DC Current for 5V Pin            : 800 mA
-Flash Memory                     : 512 KB all available for the user applications
+Flash Memory                     : 512 KB all available for user applications
 SRAM                             : 96 KB (two banks: 64KB and 32KB)
 Clock Speed                      : 84 MHz
 Length                           : 101.52 mm
