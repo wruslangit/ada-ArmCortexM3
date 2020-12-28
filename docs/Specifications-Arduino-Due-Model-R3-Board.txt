@@ -1,0 +1,92 @@
+File: Specifications-Arduino-Due-Model-R3-Board.txt
+
+wruslan@HPEliteBook8470p-Ub2004-rt38:~/opt$ date
+Mon 28 Dec 2020 12:37:22 PM +08
+
+wruslan@HPEliteBook8470p-Ub2004-rt38:~/opt$ uname -a
+Linux HPEliteBook8470p-Ub2004-rt38 5.4.66-rt38 
+#1 SMP PREEMPT_RT Sat Sep 26 16:51:59 +08 2020 x86_64 x86_64 x86_64 GNU/Linux
+
+wruslan@HPEliteBook8470p-Ub2004-rt38:~/opt$ lsb_release -a
+LSB Version:	core-11.1.0ubuntu2-noarch:security-11.1.0ubuntu2-noarch
+Distributor ID:	Ubuntu
+Description:	Ubuntu 20.04.1 LTS
+Release:	20.04
+Codename:	focal
+wruslan@HPEliteBook8470p-Ub2004-rt38:~/opt$
+
+===========================================================
+Board Identification: Arduino Due Model R3 Board
+===========================================================
+The Arduino Due is the first Arduino board based on a 32-bit ARM core microcontroller. 
+
+With 54 digital input/output pins, 12 analog inputs, 2 DAC and 2 CAN it is the 
+perfect board for powerful larger scale Arduino projects.
+
+Warning: 
+===================
+Unlike most Arduino boards, the Arduino Due board runs at 3.3V. 
+The maximum voltage that the I/O pins can tolerate is 3.3V. 
+Applying voltages higher than 3.3V to any I/O pin could damage the board.
+
+===========================================================
+SPECIFICATIONS: Arduino Due R3 (ARM Board)
+===========================================================
+Microcontroller					: AT91SAM3X8E  (ARM Cortex-M3)
+Operating Voltage				: 3.3V
+Input Voltage (recommended)		: 7-12V
+Input Voltage (limits)			: 6-16V
+Digital I/O Pins				: 54 (of which 12 provide PWM output)
+Analog Input Pins				: 12
+Analog Output Pins				: 2 (DAC)
+Total DC Output Current(all I/O): 130 mA
+DC Current for 3.3V Pin			: 800 mA
+DC Current for 5V Pin			: 800 mA
+Flash Memory					: 512 KB all available for the user applications
+SRAM							: 96 KB (two banks: 64KB and 32KB)
+Clock Speed						: 84 MHz
+Length 							: 101.52 mm
+Width							: 53.3 mm
+Weight							: 36 g
+
+===========================================================
+GET SOFTWARE IDE (for Linux) with Arduino Due driver
+===========================================================
+
+Arduino Due R3 Board
+Software IDE = Arduino IDE 1.8.13
+https://downloads.arduino.cc/arduino-1.8.13-linux64.tar.xz
+
+https://www.arduino.cc/en/software
+REGISTER: wruslandr@gmail.com
+
+Inside Arduino IDE, Menu -> Tools -> Board -> Go to Boards Manager.
+
+Select: Arduino SAM Boards (32-bits Arm Cortex-M3)
+which contains Arduino Due.
+
+===========================================================
+wruslan@HPEliteBook8470p-Ub2004-rt38:~/opt$ ls -al arduino-1.8.13/
+total 20488
+drwxr-xr-x 10 wruslan wruslan     4096 Jun 16  2020 .
+drwxrwxr-x 29 wruslan wruslan     4096 Dec 28 13:28 ..
+-rwxr-xr-x  1 wruslan wruslan      882 Jun 16  2020 arduino
+-rwxr-xr-x  1 wruslan wruslan 20812340 Jun 16  2020 arduino-builder
+-rwxr-xr-x  1 wruslan wruslan     5865 Jun 16  2020 arduino-linux-setup.sh
+drwxr-xr-x 13 wruslan wruslan     4096 Jun 16  2020 examples
+drwxr-xr-x  4 wruslan wruslan     4096 Jun 16  2020 hardware
+-rwxr-xr-x  1 wruslan wruslan    11070 Jun 16  2020 install.sh
+drwxr-xr-x  6 wruslan wruslan     4096 Feb 11  2020 java
+drwxr-xr-x  4 wruslan wruslan     4096 Jun 16  2020 lib
+drwxr-xr-x 21 wruslan wruslan     4096 Jun 16  2020 libraries
+drwxr-xr-x  4 wruslan wruslan     4096 Jun 16  2020 reference
+-rw-r--r--  1 wruslan wruslan    94016 Jun 16  2020 revisions.txt
+drwxr-xr-x  4 wruslan wruslan     4096 Jun 16  2020 tools
+drwxr-xr-x  4 wruslan wruslan     4096 Jun 13  2020 tools-builder
+-rwxr-xr-x  1 wruslan wruslan       86 Jun 16  2020 uninstall.sh
+wruslan@HPEliteBook8470p-Ub2004-rt38:~/opt$ 
+
+===========================================================
+ALHAMDULILLAH 3 TIMES WRY.
+===========================================================
+
