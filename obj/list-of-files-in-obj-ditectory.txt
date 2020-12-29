@@ -1,0 +1,25 @@
+
+wruslan@HPEliteBook8470p-Ub2004-rt38:~/github/ada-ArmCortexM3/obj$ ls -al
+total 164
+drwxrwxr-x 2 wruslan wruslan  4096 Dec 29 22:47 .
+drwxrwxr-x 8 wruslan wruslan  4096 Dec 29 22:38 ..
+-rw-rw-r-- 1 wruslan wruslan 11346 Dec 29 22:39 b__main_ada_armcortexm3.adb
+-rw-rw-r-- 1 wruslan wruslan 28222 Dec 29 22:39 b__main_ada_armcortexm3.ads
+-rw-rw-r-- 1 wruslan wruslan 13231 Dec 29 22:39 b__main_ada_armcortexm3.ali
+-rw-rw-r-- 1 wruslan wruslan 22992 Dec 29 22:39 b__main_ada_armcortexm3.o
+-rw-rw-r-- 1 wruslan wruslan  3838 Dec 29 22:38 gpsauto.cgpr
+-rw-rw-r-- 1 wruslan wruslan   412 Dec 29 22:47 list-of-files-in-obj-ditectory.txt
+-rw-rw-r-- 1 wruslan wruslan     0 Dec 29 22:39 main_ada_armcortexm3.adb.stderr
+-rw-rw-r-- 1 wruslan wruslan     0 Dec 29 22:39 main_ada_armcortexm3.adb.stdout
+-rw-rw-r-- 1 wruslan wruslan  4550 Dec 29 22:39 main_ada_armcortexm3.ali
+-rw-rw-r-- 1 wruslan wruslan   674 Dec 29 22:39 main_ada_armcortexm3.bexch
+-rw-rw-r-- 1 wruslan wruslan    45 Dec 29 22:39 main_ada_armcortexm3.cswi
+-rw-rw-r-- 1 wruslan wruslan  2488 Dec 29 22:39 main_ada_armcortexm3.o
+-rw-rw-r-- 1 wruslan wruslan     0 Dec 29 22:39 pkg_ada_dtstamp.adb.stderr
+-rw-rw-r-- 1 wruslan wruslan     0 Dec 29 22:39 pkg_ada_dtstamp.adb.stdout
+-rw-rw-r-- 1 wruslan wruslan 10904 Dec 29 22:39 pkg_ada_dtstamp.ali
+-rw-rw-r-- 1 wruslan wruslan    45 Dec 29 22:39 pkg_ada_dtstamp.cswi
+-rw-rw-r-- 1 wruslan wruslan 31888 Dec 29 22:39 pkg_ada_dtstamp.o
+wruslan@HPEliteBook8470p-Ub2004-rt38:~/github/ada-ArmCortexM3/obj$ 
+
+
